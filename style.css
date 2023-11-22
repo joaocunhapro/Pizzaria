@@ -268,13 +268,11 @@ html {
     display: flex;
     justify-content: space-between;
 }
-
-.sobre-nos img {
+.sobre-nos iframe {
     width: 500px;
     height: 400px;
     margin-top: 10rem;
     margin-left: 10rem;
-    border: 2px solid rgb(155, 155, 155);
 }
 
 .contentsobre h2 {
